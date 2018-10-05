@@ -1,4 +1,4 @@
-backup_type = full-backuped
+backup_type = full-prepared
 from_lsn = 0
 to_lsn = 14457273
 last_lsn = 14457273
